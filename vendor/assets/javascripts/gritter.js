@@ -84,7 +84,7 @@ window.Modernizr = function (a, b, c) {
     position: 'bottom-right',
     fade_in_speed: 'medium', // how fast notifications fade in
     fade_out_speed: 1000, // how fast the notices fade out
-    time: 600000 // hang on the screen for...
+    time: 6000 // hang on the screen for...
   }
   
   /**
@@ -143,7 +143,7 @@ window.Modernizr = function (a, b, c) {
     position: 'bottom-right',
     fade_in_speed: '1000',
     fade_out_speed: '1000',
-    time: '600000',
+    time: '6000',
       
     // Private - no touchy the private parts
     _custom_timer: 0,
